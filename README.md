@@ -56,6 +56,11 @@ Iniciantes na organizacao financeira e profissionais independentes (estilo one p
 
 <br>
 
+Tela Principal juntamente com as interações com o lovable.
+<img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/78ed6740-672f-43c3-9d30-485bd5b99f7a" />
+
+<br>
+
 **Tela de Visão Geral**
 <img width="1460" height="865" alt="image" src="https://github.com/user-attachments/assets/b3656270-e9ac-4d22-8500-4ec4b628990b" />
 
