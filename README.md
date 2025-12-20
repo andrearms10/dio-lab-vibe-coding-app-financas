@@ -3,24 +3,24 @@
 ## Entregando o Desafio na DIO
 
 O PRD foi refinado na plataforma Adapta.<br>
-Fazendo um breve resumo do funcionamento desta plataforma de IA. Na Adata existe uma IA que é o "front" com o usuário e por trás dela temos diversas IA como: GPT-5, DeepSeek v3.2, Gemini 3 Flash, Grok 4.1, Claude 4.5, Perplexity, Nano Banana, GPT Image, Imagen 4.0, Flux 1.1 Pro, dentre outras.<br>
+Fazendo um breve resumo do funcionamento desta plataforma de IA. Na Adpata existe uma IA que é o "front" com o usuário e por trás dela temos diversas IA como: GPT-5, DeepSeek v3.2, Gemini 3 Flash, Grok 4.1, Claude 4.5, Perplexity, Nano Banana, GPT Image, Imagen 4.0, Flux 1.1 Pro, dentre outras.<br>
 Então o que existe é uma orquestração, a IA principal, que está no front, que eu a chamo de ONE, recebe as minhas requisições, o ONE verifica qual IA é a melhor para responder e repassa para ela. Quando o ONE recebe a reposta da IA que está no "backend", o ONE repassa para mim.<br>
 Dado curioso é que o título do app foi dado pelo One e veja que ele colocou o nome dele no app, rsrsrs.
 
 > ### **Prompt Final** (PRD)
 #### 1. Contexto e Visão
-O VibeFinance ONE é um ecossistema de organização financeira focado em eliminar a barreira da entrada manual de dados. A visão do produto é aplicar o conceito de automação e padrão para colocar a vida financeira do usuario no trilho através de conversas naturais, permitindo uma gestão baseada em monitoração inteligente e **análise de comportamento**.
+O VibeFinance ONE é um ecossistema de organização financeira focado em eliminar a barreira da entrada manual de dados. A visão do produto é aplicar o conceito de automação e padrão para colocar a vida financeira do usuário nos trilhos através de conversas naturais, permitindo uma gestão baseada em monitoração inteligente e **análise de comportamento**.
 
 #### 2. Problema
-Os aplicativos financeiros tradicionais falham por exigir esforco cognitivo e manual excessivo. O preenchimento de formularios e a categorizacao manual geram tédio e abandono. Alem disso, os dados sao entregues de forma isolada, sem explicar os padroes temporais e comportamentais do usuario.
+Os aplicativos financeiros tradicionais falham por exigir esforço cognitivo e manual excessivo. O preenchimento de formulários e a categorização manual geram tédio e abandono. Alem disso, os dados são entregues de forma isolada, sem explicar os padrões temporais e comportamentais do usuário.
 
 #### 3. Publico-Alvo
-Iniciantes na organizacao financeira e profissionais independentes (estilo one person business) que buscam agilidade, apreciam design minimalista e precisam de uma ferramenta que identifique tendencias automaticamente.
+Iniciantes na organização financeira e profissionais independentes (estilo one person business) que buscam agilidade, apreciam design minimalista e precisam de uma ferramenta que identifique tendências automaticamente.
 
 #### 4. Funcionalidades-Chave
-1. Registro Conversacional: Entrada de gastos e ganhos via chat em linguagem natural (Ex: Gastei `R$ 45` com cafe agora).
-2. Classificacao Automatica: Agente de IA identifica a categoria e o contexto da transacao sem intervencao do usuario.
-3. Relatorio de Padroes Temporais (Analise X/Y):
+1. Registro Conversacional: Entrada de gastos e ganhos via chat em linguagem natural (Ex: Gastei `R$ 45` com café agora).
+2. Classificação Automática: Agente de IA identifica a categoria e o contexto da transação sem intervenção do usuário.
+3. Relatório de Padrões Temporais (Análise X/Y):
       - Identificacao de recorrências: No periodo X ha mais gasto com cafeteria, no periodo Y ha mais gasto com taxi.
       - Deteccao de Zonas de Economia: Informativo automatico sobre periodos de baixo gasto para validacao de bons habitos.
 4. Acompanhamento de Metas: Definicao e monitoramento de objetivos financeiros de forma proativa.
@@ -91,9 +91,10 @@ Tela Principal juntamente com as interações com o lovable.
 > ### Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
       - O core do app, que é justamente **realizar as entradas de dados de forma conversacional** (tela 1 - chat), não somente isso, ele recebe os dados e debita ou credita na conta, alocando numa categoria (tela 2 Visão Geral - dashboard).
-      - Um item importante para mim é **PADRÂO**, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisa e precisamos buscar padrões de comportamento, seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é **OURO** que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de uma forma aprazível e leve.
+      - Um item importante para mim é **PADRÂO**, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisada e precisamos buscar padrões de comportamento, seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é **OURO** que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de uma forma aprazível e leve.
       - E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Onde terá a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa ou na Reserva de Emergência.
-      - É a AI entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter a visão estratégica?
+      - É a AI entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter essa visão estratégica?
+      - Deixo minha assinatura no app, quando procuro padrões, comportamentos, monitoramentos e entregas baseadas em análises comportamentais realizadas por IA.
     
   - O que não funcionou como o esperado?
       - Dicas de investimentos ,ao questionar por dicasa IA não entendeu;
