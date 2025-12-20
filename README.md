@@ -48,6 +48,12 @@ Iniciantes na organizacao financeira e profissionais independentes (estilo one p
 > ### Prints ou pequenos vídeos das interações com a IA;
 
 
+1a tela - interação com a IA
+<img width="1421" height="861" alt="image" src="https://github.com/user-attachments/assets/cab29de0-9e7c-48f5-8d96-c1206aad08a7" />
+
+Tela de insights e Padões de de gastos ou economia
+<img width="1427" height="892" alt="image" src="https://github.com/user-attachments/assets/7fb0d184-79d7-4af1-a006-903080e42558" />
+
 
 
 
@@ -67,11 +73,3 @@ Iniciantes na organizacao financeira e profissionais independentes (estilo one p
   - O que aprendeu sobre conversar com IAs?
 
 
----
-
-> [!TIP]
-> Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
-
-## 💬 Conclusão
-
-Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
