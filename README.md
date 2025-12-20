@@ -50,7 +50,10 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 
 > ### Prints ou pequenos vídeos das interações com a IA;
 
-- Fiz o upload de um vídeo de navegação no modo **Mobile**.
+- Fiz 3 uploads, a saber: <br>
+              - 01 apresentação - faço uma apresentação de todas as telas do app;<br>
+              - 02 apresentação - mostro o app funcionando com entradas e retiradas de recurso;<br>
+              - mobile - faço umaapresntação das telas no modo mobile.<br>
 
 - Abaixo são as telas do app de finanças no modo **Desktop**.
 
@@ -95,10 +98,7 @@ Tela Principal juntamente com as interações com o lovable.
       - E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Onde terá a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa ou na Reserva de Emergência.
       - É a AI entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter essa visão estratégica?
       - Deixo minha assinatura no app, quando procuro padrões, comportamentos, monitoramentos e entregas baseadas em análises comportamentais realizadas por IA.
-      - Fiz 3 uploads, a saber: <br>
-              - 01 apresentação - faço uma apresentação de todas as telas do app;<br>
-              - 02 apresentação - mostro o app funcionando com entradas e retiradas de recurso;<br>
-              - mobile - faço umaapresntação das telas no modo mobile.<br>
+      
     
   - O que não funcionou como o esperado?
       - Dicas de investimentos ,ao questionar por dicasa IA não entendeu;
