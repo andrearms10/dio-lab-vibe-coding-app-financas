@@ -52,17 +52,17 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 
 - Fiz 3 uploads, a saber: <br>
               - 01 apresentação - faço uma apresentação de todas as telas do app;<br>
-              - 02 apresentação - mostro o app funcionando com entradas e retiradas de recurso;<br>
+              - 02 apresentação - mostro o app funcionando com entradas e retiradas de recursos;<br>
               - mobile - faço uma apresntação das telas no modo mobile.<br>
 
 - Abaixo são as telas do app de finanças no modo **Desktop**.
 
-**1a tela - interação com a IA**
+**Tela Principal - interação com a IA**
 <img width="1421" height="861" alt="image" src="https://github.com/user-attachments/assets/cab29de0-9e7c-48f5-8d96-c1206aad08a7" />
 
 <br>
 
-Tela Principal juntamente com as interações com o lovable.
+**Tela Principal e as interações com o lovable**
 <img width="1900" height="906" alt="image" src="https://github.com/user-attachments/assets/78ed6740-672f-43c3-9d30-485bd5b99f7a" />
 
 <br>
@@ -77,14 +77,14 @@ Tela Principal juntamente com as interações com o lovable.
 
 <br>
 
-**Tela de insights e Padrões de gastos ou economias**
+**Tela de Insights e Padrões de gastos ou economias**
 <img width="1427" height="892" alt="image" src="https://github.com/user-attachments/assets/7fb0d184-79d7-4af1-a006-903080e42558" />
 
 
 ---
 
  > ### Um resumo do que o seu **App de Finanças Pessoais** faz;
-
+ - 
 
 
 
