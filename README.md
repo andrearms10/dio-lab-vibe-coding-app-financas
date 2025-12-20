@@ -91,8 +91,8 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
    e exibindo em uma tela bonita, organizada, com cores suaves. Ainda sobre análise da base financeira, a IA desempanhará o papel do assistente financeiro, lembrando dos recursos não creditados nas metas ou reservas financeiras. Ou parabenizando
    a assiduidade, compromisso cumpridos com as metas e reserva.
    Isso tudo é um organismo vivo, acontecendo ao mesmo tempo, as entradas e saídas e os respectivos registros, sejam nas categorias, no saldo, nas metas, na reserva financeira e os insights e padrões sendo comunicados.
-   Um ponto que vale ressaltar, o design do app, foi escolhido um estilo minimalista com cores suaves, ícones pequenos, e uma integração perfeita das quatro telas. Há uma harmonização entre os componentes de tela, tornando essa atividade de
-   controle de gastos, algo prazeroso de realizar.
+   Um ponto que vale ressaltar, o design do app, foi escolhido um estilo minimalista com cores suaves, ícones pequenos, e uma integração perfeita das quatro telas. Há uma harmonização entre os componentes de tela, onde o que é preciso priorizar a
+   visualização é feito, mas de forma delicada e bela, tornando a atividade de controle de gastos, algo prazeroso de realizar.
    
 
 ---
