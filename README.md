@@ -84,7 +84,12 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 ---
 
  > ### Um resumo do que o seu **App de Finanças Pessoais** faz;
- - 
+ - O app mantém um registro conversacional de entrada/saída, o que é um diferencial, ainda, atendendo ao requisito principal. Automaticamente essas entradas / saídas são categorizadas e listadas na tela de Visão Geral. Nesta tela temos um resumo
+   das Metas Financeiras, registro das transações e o saldo atual.<br>
+   A terceira tela é a da Meta Financeira, mas de uma forma detalhada, exibindo o acumulado, o valor que se pretende alcansar e um percentual do acumulado.
+   A quarta tela, na minha opinião, é a principal, pois é onde teremos os insights da IA sobre a nossa base de dados, mostrando onde o dinheiro está escoando, onde gasto pouco. Isto aqui é OURO, é a IA identificando padrões comportamentais
+   e exibindo em uma tela bonita, organizada, com cores suaves. Ainda sobre análise da base financeira, a IA desempanhará o papeldoassistente financeiro, lembrando  minhas metas e reservas que não estão recebendo os recursos devidos. Exi
+   
 
 
 
