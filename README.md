@@ -91,8 +91,7 @@ Tela Principal juntamente com as interações com o lovable.
 > ### Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
       - O core do app, que é justamente **realizar as entradas de dados de forma conversacional** (tela 1 - chat), não somente isso, ele recebe os dados e debita ou credita na conta, alocando numa categoria (tela 2 Visão Geral - dashboard).
-      - Um item importante para mim é **PADRÂO**, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisa e precisamos buscar padrões de comportamento,
-      - seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é **OURO** que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de
+      - Um item importante para mim é **PADRÂO**, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisa e precisamos buscar padrões de comportamento, seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é **OURO** que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de
       - uma forma aprazível e leve.
       - E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Onde terá a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa
       - ou na Reserva de Emergência.
