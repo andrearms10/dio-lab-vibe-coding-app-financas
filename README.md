@@ -51,25 +51,23 @@ Iniciantes na organizacao financeira e profissionais independentes (estilo one p
 
 - Abaixo são as telas do app de finanças no modo **Desktop**.
 
-1a tela - interação com a IA
+**1a tela - interação com a IA**
 <img width="1421" height="861" alt="image" src="https://github.com/user-attachments/assets/cab29de0-9e7c-48f5-8d96-c1206aad08a7" />
 
+<br>
 
-Tela de Visão Geral
+**Tela de Visão Geral**
 <img width="1460" height="865" alt="image" src="https://github.com/user-attachments/assets/b3656270-e9ac-4d22-8500-4ec4b628990b" />
 
+<br>
 
-Tela de Metas
+**Tela de Metas**
 <img width="1452" height="853" alt="image" src="https://github.com/user-attachments/assets/f2f2c872-b90f-4878-abf6-9c02fdbeaaf6" />
 
+<br>
 
-Tela de insights e Padrões de gastos ou economias
+**Tela de insights e Padrões de gastos ou economias**
 <img width="1427" height="892" alt="image" src="https://github.com/user-attachments/assets/7fb0d184-79d7-4af1-a006-903080e42558" />
-
-
-
-
-
 
 
 ---
@@ -86,5 +84,7 @@ Tela de insights e Padrões de gastos ou economias
   - O que funcionou bem?  
   - O que não funcionou como o esperado?  
   - O que aprendeu sobre conversar com IAs?
-
+    - Esse modo mudou completamente a forma de interagir com a IA. Agora necessitamos de PRD.
+    - Agora precisamos de um prompt muito mais elaborado, detalhado, claro em termos de funcionalidades, o que espera como funcione o app ou site, a aparência, estilo, descrição de telas.
+    - Necessitamos agora de requisitos claros e teremos num primeiro momento um protótipo, que após análises e interações teremos um produto final, sem codificação, sem preocupação de hardwares e configurações de ambiente.
 
