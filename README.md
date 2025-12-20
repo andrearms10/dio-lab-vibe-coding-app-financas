@@ -9,7 +9,7 @@ Dado curioso é que o título do app foi dado pelo One e veja que ele colocou o 
 
 > ### **Prompt Final** (PRD)
 #### 1. Contexto e Visão
-O VibeFinance ONE e um ecossistema de organizacao financeira focado em eliminar a barreira da entrada manual de dados. A visão do produto e aplicar o conceito de automacao e padrao para colocar a vida financeira do usuario no trilho atraves de conversas naturais, permitindo uma gestão baseada em monitoracao inteligente e **analise de comportamento**.
+O VibeFinance ONE é um ecossistema de organização financeira focado em eliminar a barreira da entrada manual de dados. A visão do produto é aplicar o conceito de automação e padrão para colocar a vida financeira do usuario no trilho através de conversas naturais, permitindo uma gestão baseada em monitoração inteligente e **análise de comportamento**.
 
 #### 2. Problema
 Os aplicativos financeiros tradicionais falham por exigir esforco cognitivo e manual excessivo. O preenchimento de formularios e a categorizacao manual geram tédio e abandono. Alem disso, os dados sao entregues de forma isolada, sem explicar os padroes temporais e comportamentais do usuario.
@@ -90,6 +90,8 @@ Tela Principal juntamente com as interações com o lovable.
 
 > ### Uma breve **reflexão sobre o processo**:
   - O que funcionou bem?
+      - O core do app, que é justamente **realizar as entradas de dados de forma conversacional**,não somente isso, ele recebe os dados e debita ou credita na conta, alocando numa categoria.
+      - Um item importante para mim é **PADRÂO**, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base 
     
   - O que não funcionou como o esperado?
       - Dicas de investimentos,ao questionar por dicas ele não entende
