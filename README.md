@@ -2,11 +2,14 @@
 
 ## Entregando o Desafio na DIO
 
-PRD refinado na plataforma Adapta.
+O PRD foi refinado na plataforma Adapta. 
+Fazendo um breve resumo do funcionamento desta plataforma de IA. Na Adata existe uma IA que é o "front" com o usuário e por trás dela temos diversas IA como: GPT-5, DeepSeek v3.2, Gemini 3 Flash, Grok 4.1, Claude 4.5, Perplexity, Nano Banana, GPT Image, Imagen 4.0, Flux 1.1 Pro, dentre outras.
+Então o que existe é uma orquestração, a IA principal, que está no front, que eu a chamo de ONE, recebe as minhas requisições, o ONE verifica qual IA é a melhor para responder e repassa para ela. Quando o ONE recebe a reposta da IA que está no "backend", o ONE repassa para mim.
+Dado curioso é que o título do app foi dado pelo One e veja que ele colocou o nome dele no app, rsrsrs.
 
 > ### **Prompt Final** (PRD)
 #### 1. Contexto e Visão
-O VibeFinance ONE e um ecossistema de organizacao financeira focado em eliminar a barreira da entrada manual de dados. A visao do produto e aplicar o conceito de automacao e padrao para colocar a vida financeira do usuario no trilho atraves de conversas naturais, permitindo uma gestao baseada em monitoracao inteligente e analise de comportamento.
+O VibeFinance ONE e um ecossistema de organizacao financeira focado em eliminar a barreira da entrada manual de dados. A visão do produto e aplicar o conceito de automacao e padrao para colocar a vida financeira do usuario no trilho atraves de conversas naturais, permitindo uma gestão baseada em monitoracao inteligente e **analise de comportamento**.
 
 #### 2. Problema
 Os aplicativos financeiros tradicionais falham por exigir esforco cognitivo e manual excessivo. O preenchimento de formularios e a categorizacao manual geram tédio e abandono. Alem disso, os dados sao entregues de forma isolada, sem explicar os padroes temporais e comportamentais do usuario.
