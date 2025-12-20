@@ -81,8 +81,10 @@ Iniciantes na organizacao financeira e profissionais independentes (estilo one p
 ---
 
 > ### Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  - O que funcionou bem?
+    
+  - O que não funcionou como o esperado?
+      - Dicas de investimentos, 
   - O que aprendeu sobre conversar com IAs?
     - Esse modo mudou completamente a forma de interagir com a IA. Agora necessitamos de PRD.
     - Agora precisamos de um prompt muito mais elaborado, detalhado, claro em termos de funcionalidades, o que espera como funcione o app ou site, a aparência, estilo, descrição de telas.
