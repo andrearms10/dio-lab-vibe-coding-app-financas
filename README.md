@@ -100,7 +100,5 @@ Tela Principal juntamente com as interações com o lovable.
       - A publicação do app, simplesmente não abre, não sei se foi por causa do problema de segurança apontado, mas que não consegui resolver por falta de crédito.
         
   - O que aprendeu sobre conversar com IAs?
-    - Esse modo mudou de interação mudou completamente a forma de interagir com a IA. Agora necessitamos de um PRD, requistos detalhados.
-    - Precisamos de um contexto, informações muito mais elaborados, detalhados, claros em termos de funcionalidades, o que esperar do app ou site, a aparência, estilo, descrição de telas, dentre outros.
-    - Com requisitos claros teremos num primeiro momento um protótipo rápido, que após análises e interações teremos um produto final, sem codificação, sem preocupação de hardwares e configurações de ambiente.
+    - Esse modo mudou de interação mudou completamente a forma de interagir com a IA. Agora necessitamos de um PRD, requistos detalhados. Precisamos de um contexto, informações muito mais elaborados, detalhados, claros em termos de funcionalidades, o que esperar do app ou site, a aparência, estilo, descrição de telas, dentre outros. Com requisitos claros teremos num primeiro momento um protótipo rápido, que após análises e interações teremos um produto final, sem codificação, sem preocupação de hardwares e configurações de ambiente.
 
