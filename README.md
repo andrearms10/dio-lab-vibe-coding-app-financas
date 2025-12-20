@@ -98,12 +98,19 @@ Tela Principal juntamente com as interações com o lovable.
       - E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Terá a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa ou na Reserva de Emergência.
       - É a AI entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter essa visão estratégica?
       - Deixo minha assinatura no app, quando procuro padrões, comportamentos, monitoramentos e entregas baseadas em análises comportamentais realizadas por IA.
-      
+
+---
     
 > ### O que não funcionou como o esperado?
-      - Dicas de investimentos, ao questionar por dicas a IA não entendeu;
-      - A publicação do app, simplesmente não abre, não sei se foi o problema de segurança apontado, mas que não consegui resolver por falta de crédito.
+- Dicas de investimentos, ao questionar por dicas a IA não entendeu;
+- A publicação do app, simplesmente não abre, não sei se foi o problema de segurança apontado, mas que não consegui resolver por
+      falta de crédito.
+
+---
         
 > ### O que aprendeu sobre conversar com IAs?
-    - Esse modo mudou completamente a forma de interagir com a IA. Agora necessitamos de um PRD, requistos detalhados. Precisamos de um contexto, informações muito mais elaborados, detalhados, claros em termos de funcionalidades, o que esperar do app ou site, a aparência, estilo, descrição de telas, dentre outros. Com requisitos claros teremos num primeiro momento um protótipo rápido, que após análises e interações teremos um produto final, sem codificação, sem preocupação de hardwares e configurações de ambiente.
+- Esse modo mudou completamente a forma de interagir com a IA. Agora necessitamos de um PRD, requistos detalhados. Precisamos de 
+    um contexto, informações muito mais elaborados, detalhados, claros em termos de funcionalidades, o que esperar do app ou site, 
+    a aparência, estilo, descrição de telas, dentre outros. Com requisitos claros teremos num primeiro momento um protótipo rápido, 
+    que após análises e interações teremos um produto final, sem codificação, sem preocupação de hardwares e configurações de ambiente.
 
