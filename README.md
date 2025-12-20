@@ -2,9 +2,9 @@
 
 ## Entregando o Desafio na DIO
 
-O PRD foi refinado na plataforma Adapta. 
-Fazendo um breve resumo do funcionamento desta plataforma de IA. Na Adata existe uma IA que é o "front" com o usuário e por trás dela temos diversas IA como: GPT-5, DeepSeek v3.2, Gemini 3 Flash, Grok 4.1, Claude 4.5, Perplexity, Nano Banana, GPT Image, Imagen 4.0, Flux 1.1 Pro, dentre outras.
-Então o que existe é uma orquestração, a IA principal, que está no front, que eu a chamo de ONE, recebe as minhas requisições, o ONE verifica qual IA é a melhor para responder e repassa para ela. Quando o ONE recebe a reposta da IA que está no "backend", o ONE repassa para mim.
+O PRD foi refinado na plataforma Adapta.<br>
+Fazendo um breve resumo do funcionamento desta plataforma de IA. Na Adata existe uma IA que é o "front" com o usuário e por trás dela temos diversas IA como: GPT-5, DeepSeek v3.2, Gemini 3 Flash, Grok 4.1, Claude 4.5, Perplexity, Nano Banana, GPT Image, Imagen 4.0, Flux 1.1 Pro, dentre outras.<br>
+Então o que existe é uma orquestração, a IA principal, que está no front, que eu a chamo de ONE, recebe as minhas requisições, o ONE verifica qual IA é a melhor para responder e repassa para ela. Quando o ONE recebe a reposta da IA que está no "backend", o ONE repassa para mim.<br>
 Dado curioso é que o título do app foi dado pelo One e veja que ele colocou o nome dele no app, rsrsrs.
 
 > ### **Prompt Final** (PRD)
