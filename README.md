@@ -47,8 +47,9 @@ Iniciantes na organizacao financeira e profissionais independentes (estilo one p
 
 > ### Prints ou pequenos vídeos das interações com a IA;
 
-Fiz o upload de um vídeo de navegação no modo **Mobile**.
+- Fiz o upload de um vídeo de navegação no modo **Mobile**.
 
+- Abaixo são as telas do app de finanças no modo **Desktop**.
 
 1a tela - interação com a IA
 <img width="1421" height="861" alt="image" src="https://github.com/user-attachments/assets/cab29de0-9e7c-48f5-8d96-c1206aad08a7" />
