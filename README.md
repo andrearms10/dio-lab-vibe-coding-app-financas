@@ -2,6 +2,8 @@
 
 ## Entregando o Desafio na DIO
 
+PRD refinado na plataforma Adapta.
+
 > ### **Prompt Final** (PRD)
 #### 1. Contexto e Visão
 O VibeFinance ONE e um ecossistema de organizacao financeira focado em eliminar a barreira da entrada manual de dados. A visao do produto e aplicar o conceito de automacao e padrao para colocar a vida financeira do usuario no trilho atraves de conversas naturais, permitindo uma gestao baseada em monitoracao inteligente e analise de comportamento.
@@ -34,6 +36,12 @@ Iniciantes na organizacao financeira e profissionais independentes (estilo one p
 - Dashboards: Implementacao de um Dashboard minimalista focado exclusivamente em Metas Financeiras.
 - UI/UX Apple: Aplicacao dos principios de Design da Apple (clareza, simplicidade e elegância) desde o prototipo inicial.
 - Esboco de Validação (Métrica): O usuário deve ser capaz de registrar três tipos de gastos diferentes em menos de 20 segundos e visualizar o resumo da categoria imediatamente.
+
+#### Interação com LOVABLE
+- Crie um, app finanças pessoais com base no seguinte PRD (Documento de Solicitação de Produto)
+- faça uma tela de login
+
+-  Site no lovable: https://chat-your-wealth.lovable.app
 
 ---
 
