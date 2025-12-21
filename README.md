@@ -1,9 +1,11 @@
 # VibeFinance ONE - Inteligência Financeira Conversacional
 
 ## Entregando o Desafio na DIO
-O refinamento deste PRD ocorreu na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário.Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como GPT, Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana, GPT Image. O diferencial reside na automação inteligente: ao receber uma requisição, a ONE identifica instantaneamente qual motor de IA é o mais capacitado para aquela tarefa específica no backend.Após esse processamento especializado, a ONE recebe a resposta, valida a qualidade e a entrega de forma fluida. Esse padrão garante que você sempre tenha acesso ao melhor de cada tecnologia disponível no mercado através de uma interface única, simplificada e eficiente.
+O refinamento deste PRD ocorreu na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário.Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como GPT, Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana, GPT Image. 
 <br>
-Dado curioso é que o título do app foi dado pelo One e veja que ele colocou o nome dele no app, rsrsrs.
+O diferencial reside na automação inteligente: ao receber uma requisição, a ONE identifica instantaneamente qual motor de IA é o mais capacitado para aquela tarefa específica no backend.Após esse processamento especializado, a ONE recebe a resposta, valida a qualidade e a entrega de forma fluida. Esse padrão garante que você sempre tenha acesso ao melhor de cada tecnologia disponível no mercado através de uma interface única, simplificada e eficiente.
+<br>
+Dado curioso é que o título do app foi dado pelo One e veja que ela colocou o nome dela no app, rsrsrs.
 
 > ### **Prompt Final** (PRD)
 #### 1. Contexto e Visão
@@ -101,13 +103,16 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 ---
 
 > ### Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?
-      - O core do app, que é justamente **realizar as entradas de dados de forma conversacional** (tela 1 - chat), não somente isso, ele recebe os dados e debita ou credita na conta, alocando numa categoria (tela 2 Visão Geral - dashboard).
-      - Um item importante para mim é **PADRÂO**, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisada e precisamos buscar padrões de comportamento, seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é **OURO** que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de uma forma aprazível, leve e interessante.
-      - E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Teremos a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa ou na Reserva de Emergência. É a IA entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter essa visão estratégica?
-      - Por último criei a tela de login, limpa, elegante, somente com o essencial, como deve ser. 
-      - Deixo minha assinatura no app, quando procuro padrões, comportamentos, monitoramentos e entregas baseadas em análises comportamentais realizadas por IA. Tudo isso num ambiente elegante, limpo e bonito.
-      - Tudo que foi descrito acima pode ser visto nas impressões de tela do app no item - **Prints ou pequenos vídeos das interações com a IA** e nos vídeos que realizei os uploads.
+- O que funcionou bem?
+- O diferencial do ecossistema começa na tela de **Chat** onde ocorre o **registro conversacional** de entradas e saídas, garantindo uma interface natural e intuitiva. Automaticamente, esses dados são processados, categorizados e consolidados na tela de **Visão Geral**, que oferece um panorama imediato das metas financeiras, histórico de transações e saldo em tempo real.
+<br>
+Para um controle mais rigoroso, a terceira tela detalha as **Metas Financeiras**, apresentando de forma analítica o valor acumulado, o objetivo pretendido e o respectivo percentual de progresso.
+<br>
+A quarta tela **Insights** é o coração estratégico do app. É aqui que a inteligência de dados se transforma em **OURO**: a IA analisa profundamente a base histórica para extrair insights comportamentais. Ela identifica padrões de consumo, detecta gargalos onde o dinheiro está escoando e aponta períodos de maior economia. Mais do que um relatório, a IA atua como um Assistente Financeiro proativo, que ora orienta sobre metas e reservas pendentes, ora celebra a disciplina e a assiduidade do usuário.
+<br>
+Todo o sistema opera como um organismo vivo e síncrono. Cada nova entrada reflete instantaneamente em todas as camadas: categorias, saldos, metas e nos padrões detectados pela IA.
+<br>
+Para sustentar essa complexidade, o **Design** adota uma estética minimalista de alto padrão: cores suaves, ícones discretos e uma harmonia visual que prioriza o que é essencial. A integração entre as quatro telas é fluida e bela, elevando a gestão financeira de uma tarefa burocrática para um momento de satisfação e clareza mental.
 
 ---
     
