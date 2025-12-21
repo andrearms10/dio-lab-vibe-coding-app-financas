@@ -104,7 +104,7 @@ Para uma imersão completa na experiência do usuário e na arquitetura do siste
 
 <br>
 
- - Para um controle mais rigoroso, a terceira tela detalha as **Metas Financeiras**, apresentando de forma analítica o valor acumulado, o objetivo pretendido e o respectivo percentual de progresso.
+ - Para um controle mais rigoroso, a terceira tela detalha as **Metas Financeiras**, apresentando o valor acumulado, o objetivo pretendido e o respectivo percentual de progresso.
 <br>
 
  - A quarta tela **Insights** é o coração estratégico do app. É aqui que a inteligência de dados se transforma em **OURO**: a IA analisa profundamente a base histórica para extrair insights comportamentais. Ela identifica padrões de consumo, detecta gargalos onde o dinheiro está escoando e aponta períodos de maior economia. Mais do que um relatório, a IA atua como um Assistente Financeiro proativo, que ora orienta sobre metas e reservas pendentes, ora celebra a disciplina e a assiduidade do usuário.
