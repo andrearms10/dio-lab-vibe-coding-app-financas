@@ -21,33 +21,32 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 1. Registro Conversacional: Entrada de gastos e ganhos via chat em linguagem natural (Ex: Gastei `R$ 45` com café agora).
 2. Classificação Automática: Agente de IA identifica a categoria e o contexto da transação sem intervenção do usuário.
 3. Relatório de Padrões Temporais (Análise X/Y):
-      - Identificacao de recorrências: No periodo X ha mais gasto com cafeteria, no periodo Y ha mais gasto com taxi.
-      - Deteccao de Zonas de Economia: Informativo automatico sobre periodos de baixo gasto para validacao de bons habitos.
-4. Acompanhamento de Metas: Definicao e monitoramento de objetivos financeiros de forma proativa.
-5. Visualizacao Estrategica: Painel de insights inspirado em Power BI para monitorar habitos e gostos dos clientes internos (o proprio usuario).
+      - Identificação de recorrências: No período X há mais gasto com cafeteria, no período Y ha mais gasto com táxi.
+      - Detecção de Zonas de Economia: Informativo automático sobre períodos de baixo gasto para validação de bons hábitos.
+4. Acompanhamento de Metas: Definição e monitoramento de objetivos financeiros de forma proativa.
+5. Visualização Estratégica: Painel de insights inspirado em Power BI para monitorar hábitos e gostos dos clientes internos (o próprio usuário).
 
 #### 5. Design e Estética (Apple-Inspired)
-- Minimalismo: Uso rigoroso de espacos em branco (white space) e tipografia limpa.
-- Interface Glassmorphism: Elementos translucidos, bordas arredondadas e sombras leves.
-- Hierarquia: Informacao direta, sem poluicao visual, com foco total na barra de chat.
+- Minimalismo: Uso rigoroso de espaços em branco (white space) e tipografia limpa.
+- Interface Glassmorphism: Elementos translúcidos, bordas arredondadas e sombras leves.
+- Hierarquia: Informação direta, sem poluição visual, com foco total na barra de chat.
 
 #### 6. Plano de MVP e Estratégia de Validação
-- Principais Telas: Interface de Chat centralizada, Painel de Metas e Relatorios de padroes.
-- Recursos Tecnicos Necessarios: Processamento de Linguagem Natural (NLP), Categorizacao Automatica de transacoes e Motor de Recomendacoes proativas.
-- Estrategia de Validacao Inicial: Testes de usabilidade e coleta de feedback com usuarios reais para refinar a precisao dos insights financeiros.
-- Linguagem e Tom: Comunicacao acessivel e tom educativo, obrigatoriamente em portugues.
-- Dashboards: Implementacao de um Dashboard minimalista focado exclusivamente em Metas Financeiras.
-- UI/UX Apple: Aplicacao dos principios de Design da Apple (clareza, simplicidade e elegância) desde o prototipo inicial.
-- Esboco de Validação (Métrica): O usuário deve ser capaz de registrar três tipos de gastos diferentes em menos de 20 segundos e visualizar o resumo da categoria imediatamente.
+- Principais Telas: Interface de Chat centralizada, Painel de Metas e Relatórios de padrões.
+- Recursos Técnicos Necessarios: Processamento de Linguagem Natural (NLP), Categorização Automática de transações e Motor de Recomendações proativas.
+- Estratégia de Validação Inicial: Testes de usabilidade e coleta de feedback com usuários reais para refinar a precisão dos insights financeiros.
+- Linguagem e Tom: Comunicação acessível e tom educativo, obrigatoriamente em português.
+- Dashboards: Implementação de um Dashboard minimalista focado exclusivamente em Metas Financeiras.
+- UI/UX Apple: Aplicação dos princípios de Design da Apple (clareza, simplicidade e elegância) desde o protótipo inicial.
+- Esboço de Validação (Métrica): O usuário deve ser capaz de registrar três tipos de gastos diferentes em menos de 20 segundos e visualizar o resumo da categoria imediatamente.
 
 #### Interação com LOVABLE
 - Crie um app finanças pessoais com base no seguinte PRD (Documento de Solicitação de Produto)
 - faça uma tela de login
-- eu publiquei, porem, quando acesso a url do app que é https://chat-your-wealth.lovable.app/ aparece a seguinte mensagem -Publish or update your Lovable project for it to appear here.
-
+- eu publiquei, porém, quando acesso a url do app que é https://chat-your-wealth.lovable.app/ aparece a seguinte mensagem -Publish or update your Lovable project for it to appear here.
+-  existe um botão review security,será que tem algum problema de segurança?
+<br>
 -  Site no lovable: https://chat-your-wealth.lovable.app
--  existe um botão review security,será que tem algumproblema de segurança?
-
 ---
 
 > ### Prints ou pequenos vídeos das interações com a IA;
