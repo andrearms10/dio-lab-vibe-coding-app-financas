@@ -110,12 +110,19 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 
 > ### Uma breve **reflexão sobre o processo**:
 - O que funcionou bem?
-O core do app, que é justamente realizar as entradas de dados de forma conversacional (tela 1 - chat), não somente isso, ele recebe os dados e debita ou credita na conta, alocando numa categoria (tela 2 Visão Geral - dashboard).
-Um item importante para mim é PADRÂO, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisada e precisamos buscar padrões de comportamento, seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é OURO que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de uma forma aprazível, leve e interessante.
-E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Teremos a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa ou na Reserva de Emergência. É a IA entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter essa visão estratégica?
-Por último criei a tela de login, limpa, elegante, somente com o essencial, como deve ser.
-Deixo minha assinatura no app, quando procuro padrões, comportamentos, monitoramentos e entregas baseadas em análises comportamentais realizadas por IA. Tudo isso num ambiente elegante, limpo e bonito.
-Tudo que foi descrito acima pode ser visto nas impressões de tela do app no item - Prints ou pequenos vídeos das interações com a IA e nos vídeos que realizei os uploads.
+- A espinha dorsal do aplicativo reside na entrada de dados conversacional (Tela 1), onde a interação humana se transforma em registro financeiro de forma natural. Mais do que um simples chat, o sistema processa essas mensagens em tempo real para creditar ou debitar valores, alocando-os automaticamente em categorias inteligentes dentro da Visão Geral (Tela 2).
+
+<br>
+
+- Aqui, o conceito de Padrão — meu grande guia — entra em cena: acredito que estabelecer um padrão é ter 50% do caminho percorrido para o sucesso. A construção dessa base de dados robusta permite que a IA realize o que considero o verdadeiro OURO do projeto: a análise de padrões comportamentais na Tela de Insights (Tela 4). A inteligência artificial trabalha os dados para identificar tendências de gastos ou oportunidades de economia, entregando ao usuário informações estratégicas de maneira leve, aprazível e extremamente visual. É a tecnologia transformando números frios em benefícios tangíveis e compreensíveis.
+
+<br>
+
+- Para fechar o ecossistema, as Metas Financeiras (Tela 3) trazem a IA para o "jogo" de forma proativa. Ela não apenas lista seus objetivos, mas atua como uma mentora estratégica: lembra que você não aporta na meta da "Viagem à Europa" há dois meses ou que a "Reserva de Emergência" precisa de atenção. É uma abordagem consultiva, oferecendo dicas e soluções que fogem do comum, agindo onde o usuário mais precisa de disciplina.
+
+<br>
+
+- Minha assinatura pessoal está impressa em cada detalhe: da tela de login minimalista e elegante até a integração perfeita entre comportamento humano, monitoramento inteligente e IA. Todo esse "organismo vivo", que une eficiência técnica a uma estética delicada, pode ser conferido em detalhes nos prints de tela acima e nos vídeos de interação disponíveis no repositório. O objetivo final é tornar o controle financeiro não uma carga, mas uma atividade prazerosa e intuitiva.
 
 ---
     
@@ -123,7 +130,6 @@ Tudo que foi descrito acima pode ser visto nas impressões de tela do app no ite
 - Dicas de investimentos, ao questionar por dicas a IA não entendeu;
 - A publicação do app, simplesmente não abre, interagi com o Lovable, ele fez as verificações, executei o que ele solicitou, mas não consegui resolver e
   a limitação dos créditos dificultou a solução.
-
 
 ---
         
