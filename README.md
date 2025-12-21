@@ -137,9 +137,19 @@ Para uma imersão completa na experiência do usuário e na arquitetura do siste
 ---
     
 > ### O que não funcionou como o esperado?
-- Dicas de investimentos, ao questionar por dicas a IA não entendeu;
-- A publicação do app, simplesmente não abre, interagi com o Lovable, ele fez as verificações, executei o que ele solicitou, mas não consegui resolver e
-  a limitação dos créditos dificultou a solução.
+
+Durante a fase de implementação e testes, identifiquei pontos críticos que merecem atenção para a evolução do projeto:
+
+<br>
+
+- **Refinamento da Orquestração de Prompts:** Identifiquei um gap de compreensão na IA ao processar solicitações de "dicas de investimentos". A orquestração ainda não está calibrada para interpretar essa intenção específica.
+
+<br>
+
+- **Impedimento no Deployment:** Enfrento um bloqueio técnico na publicação da aplicação. Apesar do processo de build ser concluído, o app não inicializa no ambiente de produção.
+
+
+- **Troubleshooting e Restrição de Recursos:** Realizei uma jornada de depuração utilizando o Lovable. Executei as verificações e ajustes sugeridos pela ferramenta, porém, sem sucesso na resolução do erro de carregamento. A continuidade da investigação foi interrompida pela limitação de créditos na plataforma, o que impediu novas iterações de código e testes de correção.
 
 ---
         
