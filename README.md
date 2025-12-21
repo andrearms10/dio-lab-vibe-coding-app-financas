@@ -84,12 +84,12 @@ Para uma imersão completa na experiência do usuário e na arquitetura do siste
 
 <br>
 
-**Tela de Insights e Padrões de gastos ou economias**
+**Tela de Insights e Padrões Identificados**
 <img width="1427" height="892" alt="image" src="https://github.com/user-attachments/assets/7fb0d184-79d7-4af1-a006-903080e42558" />
 
 <br>
 
-**Tela de Login - exibição de interação como Lovable, sobre o problema de Publicação**
+**Tela de Login - exibição de interação com o Lovable sobre o problema de Publicação**
 <img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/295784f6-b901-4e66-96ee-cfd71083e159" />
 
 
