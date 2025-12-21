@@ -1,10 +1,8 @@
 # VibeFinance ONE - Inteligência Financeira Conversacional
 
 ## Entregando o Desafio na DIO
-
-O PRD foi refinado na plataforma Adapta.<br>
-Fazendo um breve resumo do funcionamento desta plataforma de IA. Na Adpata existe uma IA que é o "front" com o usuário e por trás dela temos diversas IA como: GPT-5, DeepSeek v3.2, Gemini 3 Flash, Grok 4.1, Claude 4.5, Perplexity, Nano Banana, GPT Image, Imagen 4.0, Flux 1.1 Pro, dentre outras.<br>
-Então o que existe é uma orquestração, a IA principal, que está no front, que eu a chamo de ONE, recebe as minhas requisições, o ONE verifica qual IA é a melhor para responder e repassa para ela. Quando o ONE recebe a reposta da IA que está no "backend", o ONE repassa para mim.<br>
+O refinamento deste PRD ocorreu na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário.Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como GPT, Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana, GPT Image. O diferencial reside na automação inteligente: ao receber uma requisição, a ONE identifica instantaneamente qual motor de IA é o mais capacitado para aquela tarefa específica no backend.Após esse processamento especializado, a ONE recebe a resposta, valida a qualidade e a entrega de forma fluida. Esse padrão garante que você sempre tenha acesso ao melhor de cada tecnologia disponível no mercado através de uma interface única, simplificada e eficiente.
+<br>
 Dado curioso é que o título do app foi dado pelo One e veja que ele colocou o nome dele no app, rsrsrs.
 
 > ### **Prompt Final** (PRD)
