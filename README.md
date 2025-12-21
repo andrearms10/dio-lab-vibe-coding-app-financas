@@ -2,10 +2,14 @@
 
 ## Entregando o Desafio na DIO
 O refinamento deste PRD ocorreu na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário.Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como GPT, Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana, GPT Image. 
+
 <br>
-O diferencial reside na automação inteligente: ao receber uma requisição, a ONE identifica instantaneamente qual motor de IA é o mais capacitado para aquela tarefa específica no backend.Após esse processamento especializado, a ONE recebe a resposta, valida a qualidade e a entrega de forma fluida. Esse padrão garante que você sempre tenha acesso ao melhor de cada tecnologia disponível no mercado através de uma interface única, simplificada e eficiente.
+
+O diferencial reside na automação inteligente: ao receber uma requisição, a ONE identifica instantaneamente qual motor de IA é o mais capacitado para aquela tarefa específica no backend. Após esse processamento especializado, a ONE recebe a resposta, valida a qualidade e a entrega de forma fluida. Esse padrão garante que o usuário sempre tenha acesso ao melhor de cada tecnologia disponível no mercado através de uma interface única, simplificada e eficiente.
+
 <br>
-Dado curioso é que o título do app foi dado pelo One e veja que ela colocou o nome dela no app, rsrsrs.
+
+Dado curioso é que o título do app foi dado pela One e veja que ela colocou o nome dela no app, rsrsrs.
 
 > ### **Prompt Final** (PRD)
 #### 1. Contexto e Visão
