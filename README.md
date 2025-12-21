@@ -115,9 +115,8 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
     
 > ### O que não funcionou como o esperado?
 - Dicas de investimentos, ao questionar por dicas a IA não entendeu;
-- A publicação do app, simplesmente não abre, não sei se foi o problema de segurança apontado, mas que não consegui resolver por
-      falta de crédito.
-- A tela de login não ficou pronta, pois ao solicitar a crição no meio do processo os créditos acabaram e ainda ocorreu problema de segurança
+- A publicação do app, simplesmente não abre, interagi com o Lovable, ele fez as verificações, executei o que ele solicitou, mas que não consegui resolver e
+  a limitação dos créditos dificultou
 
 
 ---
