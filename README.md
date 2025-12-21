@@ -1,7 +1,7 @@
 # VibeFinance ONE - Inteligência Financeira Conversacional
 
 ## Entregando o Desafio na DIO
-O refinamento deste PRD ocorreu na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário.Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como GPT, Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana, GPT Image. 
+O refinamento deste PRD ocorreu na Adapta, uma plataforma de inteligência artificial que opera sob uma lógica de orquestração avançada. No front-end, a interação acontece diretamente com a ONE — a IA principal que gerencia toda a experiência e interface com o usuário.Nos bastidores, a ONE atua como uma maestrina tecnológica, conectando-se a um ecossistema robusto de modelos de ponta, como GPT, Claude, Gemini, DeepSeek, Grok, Perplexity e ferramentas especializadas em imagem, como Nano Banana e GPT Image. 
 
 <br>
 
