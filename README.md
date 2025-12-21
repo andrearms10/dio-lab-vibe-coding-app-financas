@@ -52,10 +52,11 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 
 > ### Prints ou pequenos vídeos das interações com a IA;
 
-- Fiz 3 uploads, a saber: <br>
+- Fiz 4 uploads, a saber: <br>
               - 01 apresentação - faço uma apresentação de todas as telas do app;<br>
               - 02 apresentação - navego no app e demonstro as funcionalidades das entradas e retiradas de recursos, os registros em categorias e atualização no saldo;<br>
               - mobile - faço uma apresentação das telas no modo mobile.<br>
+              - 03 apresentação - exibição de login no app
 
 - Abaixo são as telas do app de finanças no modo **Desktop**.
 
@@ -109,7 +110,9 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
       - Um item importante para mim é **PADRÂO**, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisada e precisamos buscar padrões de comportamento, seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é **OURO** que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de uma forma aprazível, leve e interessante.
       - E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Terá a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa ou na Reserva de Emergência.
       - É a AI entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter essa visão estratégica?
+      - Por último criei a tela de login, limpa, elegante, somente com o essencial como deve ser. 
       - Deixo minha assinatura no app, quando procuro padrões, comportamentos, monitoramentos e entregas baseadas em análises comportamentais realizadas por IA.
+      - Tudo que foi descrito acima pode ser visto nas impressões de tela do app no item - **Prints ou pequenos vídeos das interações com a IA** e nos vídeos que realizei os uploads.
 
 ---
     
