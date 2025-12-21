@@ -41,10 +41,12 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 - Esboco de Validação (Métrica): O usuário deve ser capaz de registrar três tipos de gastos diferentes em menos de 20 segundos e visualizar o resumo da categoria imediatamente.
 
 #### Interação com LOVABLE
-- Crie um, app finanças pessoais com base no seguinte PRD (Documento de Solicitação de Produto)
+- Crie um app finanças pessoais com base no seguinte PRD (Documento de Solicitação de Produto)
 - faça uma tela de login
+- eu publiquei, porem, quando acesso a url do app que é https://chat-your-wealth.lovable.app/ aparece a seguinte mensagem -Publish or update your Lovable project for it to appear here.
 
 -  Site no lovable: https://chat-your-wealth.lovable.app
+-  existe um botão review security,será que tem algumproblema de segurança?
 
 ---
 
@@ -52,8 +54,8 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 
 - Fiz 3 uploads, a saber: <br>
               - 01 apresentação - faço uma apresentação de todas as telas do app;<br>
-              - 02 apresentação - mostro o app funcionando com entradas e retiradas de recursos;<br>
-              - mobile - faço uma apresntação das telas no modo mobile.<br>
+              - 02 apresentação - navego no app e demonstro as funcionalidades das entradas e retiradas de recursos, os registros em categorias e atualização no saldo;<br>
+              - mobile - faço uma apresentação das telas no modo mobile.<br>
 
 - Abaixo são as telas do app de finanças no modo **Desktop**.
 
@@ -79,6 +81,10 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 
 **Tela de Insights e Padrões de gastos ou economias**
 <img width="1427" height="892" alt="image" src="https://github.com/user-attachments/assets/7fb0d184-79d7-4af1-a006-903080e42558" />
+
+
+**Tela de Login**
+<img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/295784f6-b901-4e66-96ee-cfd71083e159" />
 
 
 ---
@@ -111,6 +117,8 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 - Dicas de investimentos, ao questionar por dicas a IA não entendeu;
 - A publicação do app, simplesmente não abre, não sei se foi o problema de segurança apontado, mas que não consegui resolver por
       falta de crédito.
+- A tela de login não ficou pronta, pois ao solicitar a crição no meio do processo os créditos acabaram e ainda ocorreu problema de segurança
+
 
 ---
         
