@@ -148,12 +148,19 @@ Durante a fase de implementação e testes, identifiquei pontos críticos que me
 
 - **Impedimento no Deployment:** Enfrento um bloqueio técnico na publicação da aplicação. Apesar do processo de build ser concluído, o app não inicializa no ambiente de produção.
 
+<br>
 
-- **Troubleshooting e Restrição de Recursos:** Realizei uma jornada de depuração utilizando o Lovable. Executei as verificações e ajustes sugeridos pela ferramenta, porém, sem sucesso na resolução do erro de carregamento. A continuidade da investigação foi interrompida pela limitação de créditos na plataforma, o que impediu novas iterações de código e testes de correção.
+- **Troubleshooting e Restrição de Recursos:** Realizei uma depuração utilizando o Lovable. Executei as verificações e ajustes sugeridos pela ferramenta, porém, sem sucesso na resolução do erro de carregamento. A continuidade da investigação foi interrompida pela limitação de créditos na plataforma, o que impediu novas iterações de código e testes de correção.
 
 ---
         
 > ### O que aprendeu sobre conversar com IAs?
+Esta nova abordagem redefine a dinâmica de interação com a Inteligência Artificial. Para que a IA opere e entregue o melhor resultado, é fundamental fornecer um contexto rico e informações detalhadas: funcionalidades precisas, expectativas do produto, diretrizes de aparência, estilo e a arquitetura detalhada de cada tela. Com requisitos claros e bem estruturados, o ciclo de desenvolvimento se torna extremamente ágil, permitindo a criação de um protótipo funcional em tempo recorde.Através de análises iterativas e refinamentos contínuos, chegamos a um produto final robusto com uma vantagem competitiva sem precedentes: a abstração técnica total. O foco deixa de ser a escrita de códigos, o gerenciamento de hardwares ou as complexas configurações de ambiente, e passa a ser a estratégia, o padrão e a experiência do usuário.
+
+
+
+
+
 - Esse modo mudou completamente a forma de interagir com a IA. Agora necessitamos de um PRD, requistos detalhados. Precisamos de 
     um contexto, informações muito mais elaboradas, detalhadas, claras em termos de funcionalidades, o que esperar do app ou site, 
     a aparência, estilo, descrição de telas, dentre outros. Com requisitos claros teremos num primeiro momento um protótipo rápido, 
