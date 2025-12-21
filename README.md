@@ -83,7 +83,7 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 <img width="1427" height="892" alt="image" src="https://github.com/user-attachments/assets/7fb0d184-79d7-4af1-a006-903080e42558" />
 
 
-**Tela de Login**
+**Tela de Login - exibição de interação como Lovable, sobre o problema de Publicação **
 <img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/295784f6-b901-4e66-96ee-cfd71083e159" />
 
 
