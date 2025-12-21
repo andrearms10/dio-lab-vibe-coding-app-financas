@@ -47,17 +47,22 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 -  existe um botão review security,será que tem algum problema de segurança?
 <br>
 -  Site no lovable: https://chat-your-wealth.lovable.app
+
 ---
 
 > ### Prints ou pequenos vídeos das interações com a IA;
+Para uma imersão completa na experiência do usuário e na arquitetura do sistema, organizei os arquivos de vídeos em quatro pilares fundamentais:
 
-- Fiz 4 uploads, a saber: <br>
-              - 01 apresentação - faço uma apresentação de todas as telas do app;<br>
-              - 02 apresentação - navego no app e demonstro as funcionalidades das entradas e retiradas de recursos, os registros em categorias e atualização no saldo;<br>
-              - mobile - faço uma apresentação das telas no modo mobile.<br>
-              - 03 apresentação - exibição de login no app
+- 01_apresentação do app.mp4 - Tour Estratégico do App: Uma navegação guiada por todas as telas, revelando a harmonia visual e a integração fluida entre as funcionalidades que compõem o ecossistema.<br>
+- 02_apresentação de entrada e retirada.mp4 - Dinâmica de Fluxo e Automação: Demonstração prática das operações de entrada e retirada de recursos. Este vídeo evidencia a inteligência do sistema na categorização automática e no impacto imediato sobre o saldo e o dashboard.<br>
+- 03_apresentação da tela de login.mp4 - Identidade e Acesso (Login): Exibição da porta de entrada do aplicativo, onde a tela de login minimalista traduz a filosofia do projeto: oferecer apenas o essencial com máxima sofisticação.<br>
+- versão mobile.mp4 - Experiência Mobile: Uma apresentação dedicada à interface mobile, comprovando que o rigor estético e a facilidade de uso se mantêm impecáveis em dispositivos móveis.<br>
 
-- Abaixo são as telas do app de finanças no modo **Desktop**.
+<br>
+
+**Abaixo são as telas do app de finanças no modo Desktop**
+
+<br>
 
 **Tela Principal - interação com a IA**
 <img width="1421" height="861" alt="image" src="https://github.com/user-attachments/assets/cab29de0-9e7c-48f5-8d96-c1206aad08a7" />
@@ -82,8 +87,9 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 **Tela de Insights e Padrões de gastos ou economias**
 <img width="1427" height="892" alt="image" src="https://github.com/user-attachments/assets/7fb0d184-79d7-4af1-a006-903080e42558" />
 
+<br>
 
-**Tela de Login - exibição de interação como Lovable, sobre o problema de Publicação **
+**Tela de Login - exibição de interação como Lovable, sobre o problema de Publicação**
 <img width="1908" height="902" alt="image" src="https://github.com/user-attachments/assets/295784f6-b901-4e66-96ee-cfd71083e159" />
 
 
