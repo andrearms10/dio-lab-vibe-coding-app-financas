@@ -90,20 +90,6 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
 ---
 
  > ### Um resumo do que o seu **App de Finanças Pessoais** faz;
- - O app mantém um registro conversacional de entrada/saída, o que é um diferencial, ainda, atendendo ao requisito principal. Automaticamente essas entradas / saídas são categorizadas e listadas na tela de Visão Geral. Nesta tela temos um resumo
-   das Metas Financeiras, registro das transações e o saldo atual.<br>
-   A terceira tela é a da Meta Financeira propriamente dita, mas de uma forma detalhada, exibindo o acumulado, o valor que se pretende alcançar e um percentual do acumulado.
-   A quarta tela, na minha opinião, é a principal, pois é onde temos os insights da IA sobre a nossa base de dados, mostrando onde o dinheiro está escoando ou onde gasto pouco e em que período de tempo, se existir esse padrão. Isto aqui é **OURO**, é a IA identificando padrões comportamentais e exibindo em uma tela bonita, organizada, com cores suaves. Ainda sobre análise da base financeira, a IA desempanhará o papel do assistente financeiro, lembrando dos recursos não creditados nas metas ou reservas financeiras. Ou parabenizando
-   a assiduidade e compromisso cumpridos com as metas e reserva.
-   Isso tudo é um organismo vivo, acontecendo ao mesmo tempo, as entradas e saídas e os respectivos registros, sejam nas categorias, no saldo, nas metas, na reserva financeira e os insights e padrões sendo comunicados.
-   Um ponto que vale ressaltar, o design do app, foi escolhido um estilo minimalista com cores suaves, ícones pequenos, e uma integração perfeita das quatro telas. Há uma harmonização entre os componentes de tela, onde o que é preciso priorizar a
-   visualização é feito, mas de forma delicada e bela, tornando a atividade de controle de gastos, algo prazeroso de realizar.
-   
-
----
-
-> ### Uma breve **reflexão sobre o processo**:
-- O que funcionou bem?
 - O diferencial do ecossistema começa na tela de **Chat** onde ocorre o **registro conversacional** de entradas e saídas, garantindo uma interface natural e intuitiva. Automaticamente, esses dados são processados, categorizados e consolidados na tela de **Visão Geral**, que oferece um panorama imediato das metas financeiras, histórico de transações e saldo em tempo real.
 <br>
 Para um controle mais rigoroso, a terceira tela detalha as **Metas Financeiras**, apresentando de forma analítica o valor acumulado, o objetivo pretendido e o respectivo percentual de progresso.
@@ -113,6 +99,18 @@ A quarta tela **Insights** é o coração estratégico do app. É aqui que a int
 Todo o sistema opera como um organismo vivo e síncrono. Cada nova entrada reflete instantaneamente em todas as camadas: categorias, saldos, metas e nos padrões detectados pela IA.
 <br>
 Para sustentar essa complexidade, o **Design** adota uma estética minimalista de alto padrão: cores suaves, ícones discretos e uma harmonia visual que prioriza o que é essencial. A integração entre as quatro telas é fluida e bela, elevando a gestão financeira de uma tarefa burocrática para um momento de satisfação e clareza mental.
+   
+
+---
+
+> ### Uma breve **reflexão sobre o processo**:
+- O que funcionou bem?
+O core do app, que é justamente realizar as entradas de dados de forma conversacional (tela 1 - chat), não somente isso, ele recebe os dados e debita ou credita na conta, alocando numa categoria (tela 2 Visão Geral - dashboard).
+Um item importante para mim é PADRÂO, se você tem padrão, já se tem 50% do caminho percorrido. Se vamos criar uma base, esta precisa ser analisada e precisamos buscar padrões de comportamento, seja de gasto, seja de economia (Tela 4 - Insights Financeiros) ou qualquer outro tipo identificado. Esse tipo de informação é OURO que precisa ser analisada, trabalhada pela IA e entregue ao usuário em benefício próprio de uma forma aprazível, leve e interessante.
+E o que não poderia faltar, as Metas Financeiras (tela 3 - Metas Financeiras), o que faz todo sentido tê-las no seu app de finanças. Teremos a IA lembrando que há 2 meses você não credita nenhum recurso na meta de viagem à Europa ou na Reserva de Emergência. É a IA entrando no jogo para mostrar, lembrar, dar dicas, analisar, entregar soluções nunca vistas outrora. Quem melhor para ter essa visão estratégica?
+Por último criei a tela de login, limpa, elegante, somente com o essencial, como deve ser.
+Deixo minha assinatura no app, quando procuro padrões, comportamentos, monitoramentos e entregas baseadas em análises comportamentais realizadas por IA. Tudo isso num ambiente elegante, limpo e bonito.
+Tudo que foi descrito acima pode ser visto nas impressões de tela do app no item - Prints ou pequenos vídeos das interações com a IA e nos vídeos que realizei os uploads.
 
 ---
     
