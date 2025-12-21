@@ -103,7 +103,7 @@ Iniciantes na organização financeira e profissionais independentes (estilo one
   - Todo o sistema opera como um organismo vivo e síncrono. Cada nova entrada reflete instantaneamente em todas as camadas: categorias, saldos, metas e nos padrões detectados pela IA.
 <br>
 
- - Para sustentar essa complexidade, o **Design** adota uma estética minimalista de alto padrão: cores suaves, ícones discretos e uma harmonia visual que prioriza o que é essencial. A integração entre as quatro telas é fluida e bela, elevando a gestão financeira de uma tarefa burocrática para um momento de satisfação e clareza mental.
+ - Para sustentar essa complexidade, o **Design** adota uma estética minimalista de alto padrão: cores suaves, ícones discretos e uma harmonia visual que prioriza o que é essencial. A integração entre as quatro telas é fluida e bela, elevando a gestão financeira de uma tarefa chata para um momento de satisfação e clareza mental.
    
 
 ---
